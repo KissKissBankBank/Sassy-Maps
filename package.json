@@ -1,6 +1,7 @@
 {
   "name": "sassy-maps",
   "version": "0.3.2",
+  "main": "sass/_sassy-maps.scss",
   "dependencies": {},
   "engines": {
     "node": ">=0.8.0"
