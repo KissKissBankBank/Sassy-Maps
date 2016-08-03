@@ -1,6 +1,6 @@
 {
   "name": "sassy-maps",
-  "version": "0.3.2",
+  "version": "0.4.2",
   "main": "sass/_sassy-maps.scss",
   "dependencies": {},
   "engines": {
